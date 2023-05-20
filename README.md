@@ -1,7 +1,8 @@
 # MERN Stack Exercise Tracker App by freecodecamp
 This project was build from the free tutorial provided by the freecodecamp on YouTube. [Link](https://www.youtube.com/watch?v=7CqJlxBYj-M&t=1888s&pp=ygUXbWVybiBzdGFjayBmcmVlY29kZWNhbXA%3D)
 
-![Exercise Tracker App](ExerciseApp.jpg)
+
+![ExerciseApp](https://github.com/bhargav-roy/mern-exercise-tracker-fcc/assets/79373109/3299ad8b-3801-495f-a126-74a91b1018df)
 
 ## Requirements(Versions)
 Some specific versions of node packages were installed to run the UI of app effectively.
