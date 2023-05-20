@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# MERN Stack Exercise Tracker App by freecodecamp
+This project was build from the free tutorial provided by the freecodecamp on YouTube. [Link](https://www.youtube.com/watch?v=7CqJlxBYj-M&t=1888s&pp=ygUXbWVybiBzdGFjayBmcmVlY29kZWNhbXA%3D)
+
+![Exercise Tracker App](ExerciseApp.jpg)
+
+## Requirements(Versions)
+Some specific versions of node packages were installed to run the UI of app efectively.
+- `react-router-dom@5.3.4`
+- `react-datepicker@2.10.0`
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
